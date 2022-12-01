@@ -1,9 +1,17 @@
-# hang game learning games for kids
+# Hangman learning games for kids
+
+# Introduction
 A game inspired by the Hang Game. It is built in python.
 
-Run:
- - run file index.py
+# Install Instructions
 
-author:
+
+    $> pip install pygame
+
+
+
+Then run file index.py
+
+**Author**:
 - Trần Thanh Thế
 - Hoàng Quốc Việt
